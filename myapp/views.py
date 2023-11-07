@@ -5,7 +5,7 @@ import pandas as pd
 
 import numpy as np
 import pandas as pd
-import sklearn
+# import sklearn
 import pickle   
 
 data = pd.read_csv("Social_Network_Ads.csv")
